@@ -1,4 +1,4 @@
-Javascripti oxumağa başlayın. Kitabları Google Drive-a atdım və Sizinlə bölüşdüm. Eloquent Javascipt kitabını oxuya bilərsiniz. Bundan əlavə aşağədakı linklərdən faydalanın:
+Javascripti oxumağa başlayın. Bundan əlavə aşağədakı linklərdən faydalanın:
 
 https://www.w3schools.com/js/default.asp
 
